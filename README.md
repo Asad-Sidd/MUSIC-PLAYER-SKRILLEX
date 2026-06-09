@@ -1,4 +1,4 @@
-Custom Web Music Player 🎵
+**Custom Web Music Player** 🎵
 
 A sleek, custom-styled web music player built from scratch using HTML, CSS, and Vanilla JavaScript. 
 This project replaces the browser's default, clunky audio controls with a customized, modern user interface.
